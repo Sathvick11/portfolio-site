@@ -77,4 +77,5 @@ Ansys optiSLang, Simulink, PSpice, Fusion360, PTC Creo
 ---
 ## <ins>Contact</ins>
 You can also find me on
+
 [![email](https://img.icons8.com/fluency/96/filled-message.png)](mailto:sathvicksrinath@gmail.com) [![linkedin](https://img.icons8.com/fluency/96/linkedin.png)](https://www.linkedin.com/in/sathvicksrinath/) [![github](https://img.icons8.com/fluency/96/github.png)](https://github.com/Sathvick11) 
