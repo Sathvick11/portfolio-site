@@ -6,16 +6,17 @@ tags:
  
 # **Sathvick Bindinganavale Srinath**
 <base target="_blank">
-## <ins>About Me</ins>
+## About me
 
-Hello there ☺️. <br> 
+Hello there ☺️. 
+ 
 I'm a recent graduate in Mechatronics from the Technical University of Applied Sciences Würzburg-Schweinfurt. I have a strong interest in Machine Learning, Automation, Data Science and Software Development and am currently looking for opportunities in the above mentioned fields. I am a quick learner and a team player with excellent communication skills. I am passionate about learning new technologies and applying them to solve real-world problems. I am a self-motivated individual with a strong work ethic and a positive attitude. I am looking forward to working on challenging projects and contributing to the success of 
 the organization.
 
 
 ---
 
-## <ins>Experience</ins>
+## **Experience**
 ### **Bachelor Thesis Student**
 Robert Bosch GmbH, Schwieberdingen, Germany <br>
 *April 2024 - October 2024*
@@ -50,12 +51,11 @@ October 2022 - March 2023
 - The extracted data was later stored in MongoDB and used by the robot to grip the bricks. 
 
 ---
-
-## <ins>Education</ins>
-### **Mechatronics (B.Eng)**
+## **Education**
+### **B.Eng. Mechatronics **
 [Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de/en), Schweinfurt, Germany <br>
 October 2020 - February 2025
-
+*Final Grade: 2.4*
 Main Courses:
 
 - Applied Machine Learning and Design of Experiments
@@ -66,7 +66,7 @@ Main Courses:
 
 ---
 
-## <ins>Skills</ins>
+## **Skills**
 - Programming Languages: <br>
     Python, C++, Batch Scripting, YAML, SystemVerilog, HTML, CSS, MATLAB, LaTeX
 - Tools: <br>
