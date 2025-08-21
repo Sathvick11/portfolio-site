@@ -54,8 +54,8 @@ October 2022 - March 2023
 ## **Education**
 ### **B.Eng. Mechatronics **
 [Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de/en), Schweinfurt, Germany <br>
-October 2020 - February 2025
-*Final Grade: 2.4*
+October 2020 - February 2025 <br>
+*Final Grade: 2.4*<br>
 Main Courses:
 
 - Applied Machine Learning and Design of Experiments
