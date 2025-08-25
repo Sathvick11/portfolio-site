@@ -9,10 +9,11 @@ tags:
 ## About me
 
 Hello there ☺️. 
- 
-I'm a recent graduate in Mechatronics from the Technical University of Applied Sciences Würzburg-Schweinfurt. I have a strong interest in Machine Learning, Automation, Data Science and Software Development and am currently looking for opportunities in the above mentioned fields. I am a quick learner and a team player with excellent communication skills. I am passionate about learning new technologies and applying them to solve real-world problems. I am a self-motivated individual with a strong work ethic and a positive attitude. I am looking forward to working on challenging projects and contributing to the success of 
-the organization.
+I'm currently studying Masters in Mechatronics, Robotics and Biomechanical Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en). 
 
+Before starting my Masters, I completed my Bachelors in Mechatronics(B.Eng) at the [Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de)
+
+I have a strong interest in Machine Learning, Automation, Data Science and Software Development and am currently looking for opportunities in the above mentioned fields. I am a quick learner and a team player with excellent communication skills. I am passionate about learning new technologies and applying them to solve real-world problems. I am a self-motivated individual with a strong work ethic and a positive attitude. I am looking forward to working on challenging projects and contributing to the success of the organization.
 
 ---
 
