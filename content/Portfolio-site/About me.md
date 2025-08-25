@@ -6,7 +6,6 @@ tags:
  
 # **Sathvick Bindinganavale Srinath**
 <base target="_blank">
-## About me
 
 Hello there ☺️. 
 I'm currently studying Masters in Mechatronics, Robotics and Biomechanical Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en). 
