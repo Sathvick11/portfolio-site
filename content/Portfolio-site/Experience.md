@@ -3,20 +3,6 @@ title: About me
 draft: false
 tags:
 ---
-
-# **Sathvick Bindinganavale Srinath**
-<base target="_blank">
-
-Hello there ☺️. 
-I'm currently studying Masters in Mechatronics, Robotics and Biomechanical Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en). 
-
-Before starting my Masters, I completed my Bachelors in Mechatronics(B.Eng) at the [Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de)
-
-I have a strong interest in Machine Learning, Automation, Data Science and Software Development and am currently looking for opportunities in the above mentioned fields. I am a quick learner and a team player with excellent communication skills. I am passionate about learning new technologies and applying them to solve real-world problems. I am a self-motivated individual with a strong work ethic and a positive attitude. I am looking forward to working on challenging projects and contributing to the success of the organization.
-
----
-
-## **Experience**
 ### **Bachelor Thesis Student**
 Robert Bosch GmbH, Schwieberdingen, Germany <br>
 *April 2024 - October 2024*
@@ -49,33 +35,3 @@ October 2022 - March 2023
 - The goal of the project was to build a simple DUPLO brick model using a Kuka robot. For the robot to grip the bricks, it needs to know the dimensions of the bricks.  
 - Developed an algorithm in Python to extract the data of the DUPLO blocks such as length, width, and height and physical properties such as inertia, mass and center of gravity from CAD files.
 - The extracted data was later stored in MongoDB and used by the robot to grip the bricks. 
-
----
-## **Education**
-### **B.Eng. Mechatronics** 
-[Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de/en), Schweinfurt, Germany <br>
-October 2020 - February 2025 <br>
-*Final Grade: 2.4*<br>
-Main Courses:
-
-- Applied Machine Learning and Design of Experiments
-- Object Oriented Programming and Software Engineering
-- Cryptogrpahy and Ethical Hacking
-- Hardware Description Languages and Embedded Systems
-- Control Systems
-
----
-
-## **Skills**
-- Programming Languages: <br>
-    Python, C++, Batch Scripting, YAML, SystemVerilog, HTML, CSS, MATLAB, LaTeX
-- Tools: <br>
-Git, Docker, JIRA, Confluence, VSCode, OpenShift, REST API, CI/CD
-- Simulation Tools: <br>
-Ansys optiSLang, Simulink, PSpice, Fusion360, PTC Creo
-
----
-## <ins>Contact</ins>
-You can also find me on
-
-[![email](https://img.icons8.com/fluency/96/filled-message.png)](mailto:sathvicksrinath@gmail.com) [![linkedin](https://img.icons8.com/fluency/96/linkedin.png)](https://www.linkedin.com/in/sathvicksrinath/) [![github](https://img.icons8.com/fluency/96/github.png)](https://github.com/Sathvick11) 
