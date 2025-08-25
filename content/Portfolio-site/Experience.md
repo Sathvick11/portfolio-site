@@ -1,7 +1,8 @@
 ---
-title: About me
+title: Experience
 draft: false
 tags:
+---
 ---
 ### **Bachelor Thesis Student**
 Robert Bosch GmbH, Schwieberdingen, Germany <br>
@@ -16,8 +17,8 @@ Robert Bosch GmbH, Schwieberdingen, Germany <br>
 - Integrated the Framework with GitHub Actions for Continuous Integration. This enabled to provide the developers with their latest changes immediately after the commit.
 - The input files are stored in a docker container in OpenShift. These files are later used by the framework, when required, via FastAPI.
 - By implementing the framework, the developers were able to save time on integration testing of modules from 20-30 minutes to 10-20 seconds.
-
-### **DevOps Intern**
+---
+### **DevOps and Software Dev Intern**
 Robert Bosch GmbH, Schwieberdingen, Germany<br>
 *August 2024 - February 2024*
 
@@ -25,8 +26,7 @@ Robert Bosch GmbH, Schwieberdingen, Germany<br>
 - Created and maintained CI/CD pipelines in Windows and Linux environments using GitHub Actions. This ensured smooth integration of the code and automated test processes.
 - Implemented automated testing in simulations such as ANSYS, PSpice and MATLAB using Python and Batch scripting.
 - Management of user accounts and permissions in cloud-hosted tools, ensuring secure and efficient access for team members.
-
-
+---
 ### **Student Assistant**
 THWS, Schweinfurt, Germany<br>
 October 2022 - March 2023
@@ -35,3 +35,4 @@ October 2022 - March 2023
 - The goal of the project was to build a simple DUPLO brick model using a Kuka robot. For the robot to grip the bricks, it needs to know the dimensions of the bricks.  
 - Developed an algorithm in Python to extract the data of the DUPLO blocks such as length, width, and height and physical properties such as inertia, mass and center of gravity from CAD files.
 - The extracted data was later stored in MongoDB and used by the robot to grip the bricks. 
+---
