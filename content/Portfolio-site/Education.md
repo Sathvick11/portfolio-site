@@ -7,6 +7,12 @@ tags:
 [Technical University of Munich (TUM)](https://tum.de/en), Munich, Germany
 *From October 2025*
 
+**Main courses**: 
+- Cyber-Physical Systems 
+- Visual Data Analytics
+- Unsupervised Data Mining in Automation and Information Systems 
+- Advanced Programming in C++
+
 ---
 ### **B.Eng. Mechatronics** 
 [Technical University of Applied Sciences Würzburg-Schweinfurt](https://www.thws.de/en), Schweinfurt, Germany <br>
@@ -18,3 +24,4 @@ Main Courses:
 - Cryptogrpahy and Ethical Hacking
 - Hardware Description Languages and Embedded Systems
 - Control Systems
+---

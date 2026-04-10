@@ -3,9 +3,18 @@ title: Experience
 draft: false
 tags:
 ---
+## Generative AI Research Assistant
+
+**[Chair of Digital Marketing](https://www.msl.mgt.tum.de/dm/startseite/)**, Technical University of Munich (TUM)
+*Nov 2025 - Present* 
+
+- Conducted applied research in partnership with BMG to explore and automate music production using Generative AI. 
+- Engineered an end-to-end automated pipeline for seamless music generation...
+
 ---
 ### **Bachelor Thesis Student**
-Robert Bosch GmbH, Schwieberdingen, Germany <br>
+
+Robert Bosch GmbH, Schwieberdingen, Germany 
 *April 2024 - October 2024*
 
 <ins>Title</ins>: **Development of a Continuous Integration Framework for Optimization Workflows**<br>
@@ -19,7 +28,7 @@ Robert Bosch GmbH, Schwieberdingen, Germany <br>
 - By implementing the framework, the developers were able to save time on integration testing of modules from 20-30 minutes to 10-20 seconds.
 ---
 ### **DevOps and Software Dev Intern**
-Robert Bosch GmbH, Schwieberdingen, Germany<br>
+Robert Bosch GmbH, Schwieberdingen, Germany
 *August 2024 - February 2024*
 
 - Developed a data visual dashboard using Python to provide insights into the open issues and tasks in Jira and Confluence. This provided data driven insights into the project performance and records.
@@ -28,7 +37,7 @@ Robert Bosch GmbH, Schwieberdingen, Germany<br>
 - Management of user accounts and permissions in cloud-hosted tools, ensuring secure and efficient access for team members.
 ---
 ### **Student Assistant**
-THWS, Schweinfurt, Germany<br>
+THWS, Schweinfurt, Germany
 October 2022 - March 2023
 
 - Worked as a Python Developer for a research project - [KoPro](https://www.thws.de/forschung/institute/idee/abgeschlossene-idee-projekte/kopro/), which mainly focuses on the development of interaction between robots and humans in the workplace.
