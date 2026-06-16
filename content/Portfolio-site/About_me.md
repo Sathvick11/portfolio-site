@@ -1,7 +1,11 @@
 ---
 title: About me
-draft: false
+date: 2026-06-16
+aliases:
+  - About me
+  - About
 tags:
+  - about
 ---
 
 # Sathvick Bindinganavale Srinath
@@ -10,6 +14,8 @@ Hello there ☺️.
 I'm currently studying for a Master's in Mechatronics, Robotics and Biomechanical Engineering at [Technical University of Munich (TUM)](https://www.tum.de/en).
 
 I have a strong interest in Machine Learning, Generative AI, Data Science, and Software Development, and am actively looking for opportunities in these fields. I'm a quick learner and team player with a passion for applying new technologies to solve real-world problems.
+
+→ See my [[Work Experience]], [[Projects]], and [[Skills & Certifications]].
 
 ---
 

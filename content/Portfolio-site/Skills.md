@@ -1,7 +1,15 @@
 ---
 title: Skills & Certifications
-draft: false
+date: 2026-06-16
+aliases:
+  - Skills & Certifications
+  - Skills
+  - Certifications
 tags:
+  - Python
+  - DevOps
+  - CI/CD
+  - Machine Learning
 ---
 
 ## Skills

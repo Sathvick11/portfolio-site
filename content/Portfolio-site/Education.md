@@ -1,7 +1,12 @@
 ---
 title: Education
-draft: false
+date: 2026-06-16
+aliases:
+  - Education
 tags:
+  - TUM
+  - Mechatronics
+  - Machine Learning
 ---
 
 ## M.Sc. Mechatronics, Robotics and Biomechanical Engineering
@@ -33,6 +38,6 @@ tags:
 
 **Bachelor Thesis** (Grade: 1,3) — Robert Bosch GmbH *(April 2024 – September 2024)*
 *Development of a Continuous Integration Framework for Optimization Workflows*
-[→ Full details in Work Experience](Work-Experience)
+→ Full details in [[Work Experience]]
 
 ---

@@ -1,7 +1,14 @@
 ---
 title: Experience
-draft: false
+date: 2026-06-16
+aliases:
+  - Work Experience
+  - Experience
 tags:
+  - DevOps
+  - Generative AI
+  - Python
+  - CI/CD
 ---
 
 ## Research Assistant — Generative AI in Music Production
@@ -29,7 +36,9 @@ Robert Bosch GmbH, Schwieberdingen, Germany
 - Implemented a framework in Python for automated creation of parametric actors in optiSLang.
 - Integrated the framework with GitHub Actions for Continuous Integration, enabling developers to see the impact of their changes immediately after each commit.
 - Stored input files in a Docker container on OpenShift, accessed on demand by the framework via FastAPI.
-- Reduced integration testing time from 20–30 minutes to 10–20 seconds.
+
+> [!success] Result
+> Reduced integration testing time from **20–30 minutes to 10–20 seconds**.
 
 ---
 
@@ -40,8 +49,11 @@ Robert Bosch GmbH, Schwieberdingen, Germany
 
 - Developed a Python web app to visualise Jira metrics and provide data-driven project insights.
 - Maintained and optimised CI/CD pipelines (GitHub Actions) for automated integration and testing.
-- Automated integration testing with Python, reducing testing time by 70%.
+- Automated integration testing with Python.
 - Managed user accounts and permissions in cloud tools for enhanced team collaboration.
+
+> [!success] Result
+> Reduced automated testing time by **70%**.
 
 ---
 
